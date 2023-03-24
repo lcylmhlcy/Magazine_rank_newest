@@ -44,6 +44,7 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - Signal Processing: Image Communication
 - Artificial Intelligence Review
 - IEEE Transactions on Intelligent Vehicles
+- Digital Communications and Networks
 
 ## 3区
 - Soft Computing (CCF-C)
