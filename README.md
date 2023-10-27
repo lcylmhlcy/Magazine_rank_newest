@@ -39,6 +39,7 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - Signal Processing (CCF-C)
 - IJIS: International Journal of Intelligent Systems (CCF-C)
 - IEEE Geoscience and Remote Sensing Letters (CCF-C)
+- IEEE Transactions on Intelligent Vehicles (very fast)
 - IEEE Transactions on Instrumentation and Measurement
 - International Journal of Neural Systems
 - Signal Processing: Image Communication
