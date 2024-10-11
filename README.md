@@ -4,6 +4,7 @@ Topier magazine newest ranking, focus on Computer Vision and Artificial Intellig
 Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com](http://www.guide2research.com/journals/)
 
 ## 1区TOP：
+- Nature Machine Intelligence
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (CCF-A)
 - TIP: IEEE Transactions on Image Processing (CCF-A)
 - PR: Pattern Recognition (CCF-B)
@@ -24,7 +25,8 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - TII: IEEE Transactions on Industrial Informatics
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - Information Processing & Management
-- Nature Machine Intelligence
+
+---
 
 ## 2区TOP：
 - IJCV: International Journal of Computer Vision (CCF-A)
@@ -32,6 +34,8 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - EAAI: Engineering Applications of Artificial Intelligence (CCF-C)
 - Applied Soft Computing (CCF-C)
 - Remote Sensing
+
+---
 
 ## 2区：
 - Artificial Intelligence (CCF-A)
@@ -44,8 +48,9 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - International Journal of Neural Systems
 - Signal Processing: Image Communication
 - Artificial Intelligence Review
-- IEEE Transactions on Intelligent Vehicles
 - Digital Communications and Networks
+
+---
 
 ## 3区
 - Soft Computing (CCF-C)
@@ -60,6 +65,8 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - ACM Transactions on Intelligent Systems and Technology
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - ACM Transactions on Multimedia Computing Communications and Applications
+
+---
 
 ## 4区
 - IET Computer Vision (CCF-C)
